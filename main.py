@@ -160,7 +160,7 @@ def menu():
             nome_arquivo = input("Digite o nome do arquivo para carregar a árvore: ")
             arvore_pokemon.carregar_arvore_do_disco(nome_arquivo)
         elif opcao == 9:
-            print("Desenvolvedores: \n Victor Reis- 202210760 \n Daniel - XX \n Mateus - XX \n Everton - XX")
+            print("Desenvolvedores: \n Victor Reis Furtado - 202210760 \n Daniel Souza e Silva - 202210702 \n Mateus Barbosa Lopes - 202210692 \n Everton da Fonseca Jardim Junior - 202110429")
         elif opcao == 10:
             print("Saindo do programa...")
             break
